@@ -1,5 +1,4 @@
 # Translating Design Visions into Functional Web Applications
-## Hi! 👋 I'm Ganesh Patra, a Senior Frontend Engineer based in India.
 
 <p>
   <a href="https://www.linkedin.com/in/ganesh-patra-033667102/">
