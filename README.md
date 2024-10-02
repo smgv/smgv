@@ -1,4 +1,4 @@
-## ⚡ Ganesh Suresh Patra, Working asSenior Full Stack Developer at Web3Auth (Torus Labs)
+## ⚡ Ganesh Suresh Patra, Working as Senior Full Stack Developer at Web3Auth (Torus Labs)
 
 ### Translating Design Visions into Functional Web Applications
 
