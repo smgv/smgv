@@ -1,4 +1,4 @@
-## ⚡ Ganesh Suresh Patra, Working as Senior Full Stack Developer at Web3Auth (Torus Labs)
+## ⚡ Ganesh Suresh Patra, Working as Senior Software Engineer at Consensys | Metamask
 
 ### Translating Design Visions into Functional Web Applications
 
